@@ -1,4 +1,4 @@
-Zip Code,Country Code,GMA #,GMA Name,City Name
+Postcode,Country Code,GMA,GmaCanonicalName,CityCanonicalName
 3227,US,500,"Portland,Maine,United States","Sandwich,New Hampshire,United States"
 3254,US,500,"Portland,Maine,United States","Moultonborough,New Hampshire,United States"
 3570,US,500,"Portland,Maine,United States","Berlin,New Hampshire,United States"
